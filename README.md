@@ -16,7 +16,7 @@ CSE Student.
 
 Programing ❤️| Anime 💙| Games 💚
 
-I'm from Dhaka - Bangladesh
+I am from Dhaka - Bangladesh
 
 I studied Java | Javascript |Python 
 
