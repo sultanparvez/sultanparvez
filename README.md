@@ -2,7 +2,7 @@
 
 Machine-learning enthusiast | Android Develpoer | Gamer 
 
-CSE Student.
+CSE Student and looking for opportunities. 
 
 
 
