@@ -1,4 +1,4 @@
-## Hi, im Sultan Parvez ⚡
+## Hi, I am Sultan Parvez ⚡
 
 Machine-learning enthusiast | Android Develpoer | Gamer 
 
