@@ -18,7 +18,7 @@ Programing ❤️| Anime 💙| Games 💚
 
 I am from Dhaka - Bangladesh
 
-I studied Java | Javascript |Python 
+Programming Languages - Java | Javascript | Python 
 
 Video gamer who love exploring new things.
 
