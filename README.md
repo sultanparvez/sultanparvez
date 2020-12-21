@@ -2,7 +2,7 @@
 
 Machine-learning enthusiast | Android Develpoer | Gamer 
 
-CSE Student and looking for opportunities. 
+CSE Graduate and looking for opportunities. 
 
 
 
@@ -14,7 +14,7 @@ CSE Student and looking for opportunities.
   <img width="200" alt="hello!" align="left" src="https://giffiles.alphacoders.com/956/9562.gif">
 </p>
 
-Programing ❤️| Anime 💙| Games 💚
+Programing ❤️| Tech enthusiasm 💙| Games 💚
 
 I am from Dhaka - Bangladesh
 
