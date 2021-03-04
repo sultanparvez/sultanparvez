@@ -1,9 +1,6 @@
 ## Hi, I am Sultan Parvez ⚡
 
-Machine-learning enthusiast | Android Develpoer | Gamer 
-
-CSE Graduate and looking for opportunities. 
-
+Junior Software Quality Assurance Engineer | Gamer 
 
 
 
