@@ -1,10 +1,10 @@
 ## Hi, I am Sultan Parvez ⚡
 
-Junior Software Quality Assurance Engineer | Gamer 
+Junior Software  Quality  Assurance  Engineer  |  Gamer 
 
 ## ⚡ Tech Stack
 
-Here are a few things I've picked up along my learning journey.
+Here  are  a  few   things  I've  picked  up  along  my  learning  journey.
 
 
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  ![Python](https://img.shields.io/badge/-Python-000?style=for-the-badge&logo=python) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-000?style=for-the-badge&logo=MySQL&logoColor=4479A1)
@@ -12,6 +12,7 @@ Here are a few things I've picked up along my learning journey.
  ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
+ 
  ![](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)  ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
  
  ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -34,9 +35,12 @@ Here are a few things I've picked up along my learning journey.
 <p>
   <img width="200" alt="hello!" align="left" src="https://giffiles.alphacoders.com/956/9562.gif">
 </p>
- Love playing FPS multiplayer , TPS Multiplayer
+
+ Love playing fps multiplayer , tps multiplayer
  
- Love Watching Anime 
+ 
+ Love watching anime 
+ 
  
  From Dhaka,Bangladesh
 
