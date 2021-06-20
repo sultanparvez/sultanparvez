@@ -1,6 +1,6 @@
 ## Hi, I am Sultan Parvez ⚡
 
-Junior Software  Quality  Assurance  Engineer  |  Gamer 
+Software Engineer  
 
 ## ⚡ Tech Stack
 
