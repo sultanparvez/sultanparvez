@@ -1,4 +1,4 @@
-## Hi, I am Sultan Parvez ⚡
+## Hi, I am Sultan Parvez :sagittarius:
 
 A motivated software engineer, who enjoys taking on new challenges. I'm not afraid to venture down new paths. I like being a part of the team. Communication, in my opinion, is the most effective means of learning and comprehension.
 
