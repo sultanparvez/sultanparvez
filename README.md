@@ -62,11 +62,6 @@ or give some ♥ on [mail](mailto:sultanparvez77.sp@gmail.com)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sultanparvez/sultanparvez)
 
-## Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sultanparvez" alt="sultanparvez" /></a> </p>
-
-
-
 ## Github Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sultanparvez&show_icons=true&locale=en&layout=compact" alt="sultanparvez" /></p>
