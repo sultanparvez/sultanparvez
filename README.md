@@ -1,6 +1,6 @@
 ## Hi, I am Sultan Parvez :sagittarius:
 
-A motivated software engineer, who enjoys taking on new challenges. I'm not afraid to venture down new paths. I love to create new things and always wanting to learn more, highly interested in contributing to open source. Worked professionally with a variety of automation frameworks. I'm also familiar with React, Express, Mongoose, and MongoDB. I've also worked on a number of machine learning and IoT projects.
+As a seasoned Software Quality Assurance (SQA) Engineer, I have expertise in automation using tools such as Cypress, Selenium, and Robot Framework, as well as proficiency in programming languages like Java, Python, and JavaScript. Additionally, I am experienced in API testing using Postman and performance testing with JMeter. I am committed to learning new technologies and tools to optimize the software testing process and ensure exceptional product quality. With a keen eye for detail and effective problem-solving skills, I work closely with stakeholders to deliver projects on time and meet or surpass customer expectations.
 
 ## ⚡ Tech Stack
 
@@ -34,9 +34,6 @@ Here  are  a  few   things  I've  picked  up  along  my  learning  journey.
  
 ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
- ![]("https://img.shields.io/badge/latex%20-%23008080.svg?&style=for-the-badge&logo=latex&logoColor=white") 
- 
-
 
 ## Hobbies & Biscuits 
 <p>
@@ -64,9 +61,14 @@ or give some ♥ on [mail](mailto:sultanparvez77.sp@gmail.com)
 
 ## Github Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sultanparvez&show_icons=true&locale=en&layout=compact" alt="sultanparvez" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sultanparvez&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="sultanparvez" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sultanparvez&show_icons=true&locale=en" alt="sultanparvez" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sultanparvez&show_icons=true&locale=en&theme=blue-green" alt="sultanparvez" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sultanparvez&" alt="sultanparvez" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sultanparvez&theme=blue-green" alt="sultanparvez" /></p>
+
+
+
+
+
 
