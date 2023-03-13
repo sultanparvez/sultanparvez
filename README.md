@@ -1,6 +1,6 @@
 ## Hi, I am Sultan Parvez :sagittarius:
 
-As a seasoned Software Quality Assurance (SQA) Engineer, I have expertise in automation using tools such as Cypress, Selenium, and Robot Framework, as well as proficiency in programming languages like Java, Python, and JavaScript. Additionally, I am experienced in API testing using Postman and performance testing with JMeter. I am committed to learning new technologies and tools to optimize the software testing process and ensure exceptional product quality. With a keen eye for detail and effective problem-solving skills, I work closely with stakeholders to deliver projects on time and meet or surpass customer expectations.
+As a seasoned Software Quality Assurance (SQA) Engineer, I have expertise in automation using tools such as Cypress, Selenium, Appium, and Robot Framework, as well as proficiency in programming languages like Java, Python, and JavaScript. Additionally, I am experienced in API testing using Postman and performance testing with JMeter. I am committed to learning new technologies and tools to optimize the software testing process and ensure exceptional product quality. With a keen eye for detail and effective problem-solving skills, I work closely with stakeholders to deliver projects on time and meet or surpass customer expectations. Additionally, I am familiar with the MERN stack.
 
 ## ⚡ Tech Stack
 
