@@ -59,15 +59,16 @@ or give some ♥ on [mail](mailto:sultanparvez77.sp@gmail.com)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=sultanparvez/sultanparvez)
 
+<!--
 ## Github Stats
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sultanparvez&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="sultanparvez" /></p>
- -->
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sultanparvez&show_icons=true&locale=en&layout=compact&theme=blue-green" alt="sultanparvez" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sultanparvez&show_icons=true&locale=en&theme=blue-green" alt="sultanparvez" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sultanparvez&theme=blue-green" alt="sultanparvez" /></p>
 
-
+--.
 
 
 
