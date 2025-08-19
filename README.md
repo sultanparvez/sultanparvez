@@ -1,7 +1,15 @@
 ## Hi, I am Sultan Parvez :sagittarius:
 
-As a seasoned Software Quality Assurance (SQA) Engineer, I have expertise in automation using tools such as Cypress, Selenium, Appium, and Robot Framework, as well as proficiency in programming languages like Java, Python, and JavaScript. Also, I am experienced in API testing using Postman and performance testing with JMeter. I am committed to learning new technologies and tools to optimize the software testing process and ensure exceptional product quality. With a keen eye for detail and effective problem-solving skills, I work closely with stakeholders to deliver projects on time and meet or surpass customer expectations. Additionally, I am familiar with the MERN stack.
+Currently pursuing an **MSc in Quantum Information Science** at the **University of Copenhagen**, where I am developing advanced analytical and computational problem-solving skills while exploring the intersection of quantum technologies, algorithms, and information systems.  
+This academic journey strengthens my ability to reason about complex systems, think critically, and adapt to cutting-edge technological trends.  
 
+---
+
+Previously, I worked as a **QA Automation Engineer and QA Coach**. In this capacity, I designed and executed automation frameworks using **Cypress, Selenium, Appium, and Robot Framework** with proficiency in **Java, Python, and JavaScript**, while also mentoring and guiding teams to adopt best practices in testing and automation.  
+
+I have hands-on experience with **API testing (Postman)**, **performance testing (JMeter)**, and familiarity with the **MERN stack**, which enables effective collaboration across development and testing environments. With a keen eye for detail and strong problem-solving skills, I ensured software quality and fostered a culture of continuous improvement, while delivering projects on time and meeting or exceeding customer expectations.  
+
+              
 ## ⚡ Tech Stack
 
 Here  are  a  few   things  I've  picked  up  along  my  learning  journey.
