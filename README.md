@@ -1,7 +1,6 @@
 ## Hi, I am Sultan Parvez :sagittarius:
 
-Currently pursuing an **MSc in Quantum Information Science** at the **University of Copenhagen**, where I am developing advanced analytical and computational problem-solving skills while exploring the intersection of quantum technologies, algorithms, and information systems.  
-This academic journey strengthens my ability to reason about complex systems, think critically, and adapt to cutting-edge technological trends.  
+Currently pursuing an **MSc in Quantum Information Science** at the **University of Copenhagen**, where I am developing advanced analytical and computational problem-solving skills while exploring the intersection of quantum technologies, algorithms, and information systems.
 
 ---
 
